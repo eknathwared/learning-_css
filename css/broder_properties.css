@@ -1,0 +1,27 @@
+.b_drop{
+    border: 12px dotted red ;
+}
+.b_solid{
+    border: 8px solid blue ;
+}
+.b_dashed{
+    border: 6px dashed green ;
+}
+.b_double{
+    border: 10px double purple ;
+}
+.b_radius{
+    border-radius: 30px ;
+}
+.img{
+    border-radius: 50px red solid 10px;
+    border-top-left-radius: 50px pink   solid 10px;
+    border-top-right-radius: 0px yellow solid 10px;
+    border-bottom-right-radius: 50px blue solid 10px;
+    border-bottom-left-radius: 0px  green solid 10px;
+
+}
+.img1{
+    border-width: 10px 20px 30px 40px ;
+    border-color: brown yellow green blue ;
+}

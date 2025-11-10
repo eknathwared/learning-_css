@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #cec3c3;
+}
+.heding1{
+    text-align: center;
+    color: blue;
+}
+.heding2{
+    text-align: center;
+    color: green;
+}
+.t_transform_upper{
+    text-transform: uppercase;
+    color: aquamarine;
+    text-align: center;
+
+}
+.t_transform_lower{
+    text-transform: lowercase;
+    color: brown;
+    text-align: center;
+}
+.t_transform_capitalize{
+    text-transform: capitalize;
+    color: coral;
+    text-align: center;
+}
+.t_center{
+    text-align: center;
+    color: crimson;
+}
+.t_right{
+    text-align: right;
+    color: darkblue;
+}
+.t_justify{
+    text-align: justify;
+    color: darkcyan;
+}
+.t_decor_under{
+    text-decoration: underline;
+    color: darkgoldenrod;
+}
+.t_decor_over{
+    text-decoration: overline;
+    color: darkgreen;
+}
+.t_decor_line_through{
+    text-decoration: line-through;
+    color: darkmagenta;
+}
+.t_decor over line_through{
+    text-decoration: overline line-through;
+    color: darkorange;
+}
+.t_decor_over{
+    text-decoration: overline underline line-through;
+    color: darkred;
+}
+.t_indent{
+    text-indent: 50px;
+    color: darkviolet;
+}
+.letter_space{
+    letter-spacing: 5px;
+    color: deeppink;
+}
+.word_space{
+    word-spacing: 20px;
+    color: deepskyblue;
+}
+.line_height{
+    line-height: 40px;
+    color: rgb(195, 42, 42);
+}
+.t_shadow1{
+    text-shadow: 2px 2px 5px rgb(173, 202, 13);
+    color: rgb(12, 12, 12);
+    text-align: center;
+    font-size: 50px;
+}
+.t_shadow2{
+    text-shadow: 4px 4px 5px rgb(236, 42, 12);
+    color: rgb(20, 20, 20);
+    text-align: center;
+    font-size: 60px;
+}
+.t_shadow3{
+    text-shadow: 6px 6px 5px rgb(232, 21, 154);
+    color: rgb(30, 30, 30);
+    text-align: center;
+    font-size: 70px;
+    }

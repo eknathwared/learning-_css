@@ -1,8 +1,54 @@
-h3{
-    font-size: small;
-    color: blue;
-    background-color: lightgray;
+/* style.css */
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
 
+marquee {
+    background-color: lightpink;
+    color: purple;
+    font-size: 32px;
+    padding: 10px;
+    font-weight: bold;
+}
 
-    
+nav {
+    text-align: center;
+    background-color: #fff;
+    padding: 15px 0;
+    box-shadow: 0 0 5px gray;
+}
+
+nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+.content {
+    margin: 40px;
+    color: #333;
+    font-size: 18px;
+}
+
+.images-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.images-section img {
+    width: 45%;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
 }
